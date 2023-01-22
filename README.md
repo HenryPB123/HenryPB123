@@ -1,5 +1,5 @@
   <h1>Hola, Mi nombre es Henry Peralta Briceño</h1>
-    <h3>Mi usuario de GitHub en HenryPB123</h3>
+    <h3>JavaScript - React Node - Express - PostgresSQL - Sequelize - Git - HTML - CSS</h3>
     <hr />
     <h2>¿Quién soy?</h2>
     <p>
@@ -15,8 +15,10 @@
     <p>
       Actualmente me dedico a capacitarme, investigar nuevas herramientas y
       realizar proyectos que me permitar avanzar con el proceso de capacitación
-      y mejoramiento de mi experiencia como <b>Programador Fullstack</b>.
-      Encontré en el mundo de la programación un mundo fascinante, el cual
+      y mejoramiento de mi experiencia como <b>Programador Fullstack</b>.     
+    </p>
+    <p>
+     Encontré en el mundo de la programación un mundo fascinante, el cual
       pretendo seguir explorando.
     </p>
     <hr />
@@ -65,5 +67,5 @@
         LinkedIn
       </a>
     </p>
-     <p>Estoy disponible para cualquier inquietud.</p>
+    
   </body>
