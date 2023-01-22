@@ -66,6 +66,7 @@
       >
         LinkedIn
       </a>
+  <a>https://www.talent.soyhenry.com/app/me</a>
     </p>
     
   </body>
