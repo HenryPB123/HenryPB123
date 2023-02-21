@@ -1,4 +1,4 @@
-  <h1>Hola, Mi nombre es Henry Peralta Briceño</h1>
+  <h1>Hola, Bienvenidos a mi perfil</h1>
     <h3>JavaScript - React Node - Express - PostgresSQL - Sequelize - Git - HTML - CSS</h3>
     <hr />
     <h2>¿Quién soy?</h2>
