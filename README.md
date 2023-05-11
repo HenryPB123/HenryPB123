@@ -22,7 +22,7 @@
     <hr />
     <h2>¿A dónde me dirijo?</h2>
     <p>
-      Mi objetivo principal es darme a conocer en el mundo del código y por ende
+      Mi objetivo es darme a conocer en el mundo del código y por ende
       mejorar en todos los aspectos de mi vida, tanto profesional como personal.
     </p>
     <p>
