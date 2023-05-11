@@ -58,7 +58,7 @@
       <li>SQL</li></ul>
     <hr/>    
     <h2>No dudes en contactarme</h2>    
-    <p>Mail: mahe2di@gmail.com
+    <p>E-Mail: mahe2di@gmail.com
    <br/>
       <a href="https://www.linkedin.com/in/henry-peralta-brice%C3%B1o-420127225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPW7b3k7jRrK5mytx1PbGDg%3D%3D"
       >LinkedIn</a><br/>
