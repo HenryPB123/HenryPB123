@@ -13,7 +13,7 @@
     <hr />
     <h2>¿Qué hago?</h2>
     <p>
-      Actualmente soy Desarrollador Full Stack, pero enfocado hacia el lado del Front-End. Vivo en constante aprendizaje de nuevas herramientas para la implementación y realización de nuevos proyectos que me permitar avanzar con el proceso de mejoramiento de mi experiencia como <b>Programador Fullstack</b>.     
+      Actualmente soy Desarrollador Full Stack enfocado hacia el lado del Front-End. Vivo en constante aprendizaje de nuevas herramientas para la implementación y realización de nuevos proyectos que me permitar avanzar con el proceso de mejoramiento de mi experiencia como <b>Programador Fullstack</b>.     
     </p>
     <p>
      Encontré en el mundo de la programación un mundo fascinante, el cual
@@ -51,27 +51,20 @@
     </ul>
     <p>
      Por mi cuenta he adqirido conocimientos en:
-    </p>
-       <ul>
+    </p><ul>
       <li>Bootstrap</li>
       <li>MUI</li>
       <li>TypeScript</li>
-      <li>SQL</li>
- 
-    </ul>
-    <hr />
-    <h2>No dudes en contactarme</h2>
-    <p>Mail: mahe2di@gmail.com</p>
-     <p>
-      <a
-        href="https://www.linkedin.com/in/henry-peralta-brice%C3%B1o-420127225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPW7b3k7jRrK5mytx1PbGDg%3D%3D"
-      >
-        LinkedIn
-      </a>
- 
-  
-  
-<a>https://www.talent.soyhenry.com/app/me</a>
+      <li>SQL</li></ul>
+    <hr/>    
+    <h2>No dudes en contactarme</h2>    
+    <p>Mail: mahe2di@gmail.com
+   <br/>
+      <a href="https://www.linkedin.com/in/henry-peralta-brice%C3%B1o-420127225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPW7b3k7jRrK5mytx1PbGDg%3D%3D"
+      >LinkedIn</a><br/>
+ <a href="https://www.talent.soyhenry.com/candidate/7808?hl=es" >Henry-Talent</a>
+  <br/>
+ <a href="https://portfoliohpb.netlify.app/" >Portfolio</a>
 </p>
     
     
