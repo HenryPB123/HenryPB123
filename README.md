@@ -26,8 +26,7 @@
       mejorar en todos los aspectos de mi vida, tanto profesional como personal.
     </p>
     <p>
-      Cada día que me adentro más en el mundo de la programcaión me voy dando
-      cuenta que es un mundo bastante extenso, y mi meta es obtener un
+      Cada día que me adentro más en el mundo de la programcaión me doy cuenta que es bastante extenso, y mi meta es obtener un
       empleo, el cual me permita adquirir nuevos conocimientos, y mejorar cada
       día más, hasta llegar a crear códigos que cuando los vea diga, nunca
       espere llegar a hacer esto. En ese punto imagino la satisfacción del
