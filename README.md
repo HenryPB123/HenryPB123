@@ -3,34 +3,17 @@
     <hr />
     <h2>¿Quién soy?</h2>
     <p>
-      Soy una persona que encontró en la programación una pasión. Esto me llevó replantear
-      mi vida y a tomar la desición de capacitarme y terminar una carrera
-      técnica como <b>Programador Fullstack</b> en donde tuve la oportunidad de
-      compartir con compañeros que me brindaron sus conocimientos, permitiendome
-      así convertirme en una persona que de no saber que era una variable, hoy
-      en día sea capaz de crear una aplicación desde cero.
+Soy una persona que ha encontrado en la programación una verdadera pasión. Este interés me llevó a replantear mi trayectoria profesional y a tomar la decisión de capacitarme, culminando con una carrera técnica como Programador Fullstack, donde adquirí sólidos conocimientos en desarrollo web y creación de aplicaciones. Durante mi formación, tuve la oportunidad de colaborar con compañeros que me compartieron sus conocimientos, lo que me permitió evolucionar significativamente, pasando de no conocer qué era una variable a ser capaz de desarrollar aplicaciones completas desde cero.
     </p>
     <hr />
     <h2>¿Qué hago?</h2>
     <p>
-      Actualmente soy Desarrollador Full Stack enfocado hacia el lado del Front-End. Vivo en constante aprendizaje de nuevas herramientas para la implementación y realización de nuevos proyectos que me permitar avanzar con el proceso de mejoramiento de mi experiencia como <b>Programador Fullstack</b>.     
+     Actualmente, me desempeño como Desarrollador Full Stack y estoy cursando una técnica en Programación de Software con el objetivo de seguir profundizando en mi formación y mantenerme actualizado en las últimas tendencias tecnológicas. A lo largo de este camino, he desarrollado diversos proyectos personales que me han permitido aplicar de manera práctica los conocimientos adquiridos, perfeccionando mis habilidades y manteniéndome en constante crecimiento profesional    
     </p>
-    <p>
-     Encontré en el mundo de la programación un mundo fascinante, el cual
-      pretendo seguir explorando.
-    </p>
-    <hr />
+     <hr />
     <h2>¿A dónde me dirijo?</h2>
     <p>
-      Mi objetivo es darme a conocer en el mundo del código y por ende
-      mejorar en todos los aspectos de mi vida, tanto profesional como personal.
-    </p>
-    <p>
-      Cada día que me adentro más en el mundo de la programcaión me doy cuenta que es bastante extenso, y mi meta es obtener un
-      empleo, el cual me permita adquirir nuevos conocimientos, y mejorar cada
-      día más, hasta llegar a crear códigos que cuando los vea diga, nunca
-      espere llegar a hacer esto. En ese punto imagino la satisfacción del
-      esfuerzo recompensado.
+    Mi objetivo es consolidarme en el mundo del desarrollo de software, mejorando continuamente en todos los aspectos de mi vida, tanto a nivel profesional como personal. A medida que profundizo en el mundo de la programación, me doy cuenta de lo vasto y desafiante que es, y mi meta es obtener un empleo que me permita adquirir nuevos conocimientos, perfeccionar mis habilidades día a día, y alcanzar el punto donde pueda ver el código que he creado y sentir la satisfacción de haber alcanzado un nivel al que antes no habría imaginado llegar.
     </p>
     <hr />
     <h2>¿Qué tecnologías uso?</h2>
