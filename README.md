@@ -44,8 +44,7 @@ Soy una persona que ha encontrado en la programación una verdadera pasión. Est
    <br/>
       <a href="https://www.linkedin.com/in/henry-peralta-brice%C3%B1o-420127225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPW7b3k7jRrK5mytx1PbGDg%3D%3D"
       >LinkedIn</a><br/>
- <a href="https://www.talent.soyhenry.com/candidate/7808?hl=es" >Henry-Talent</a>
-  <br/>
+
  <a href="https://portfoliohpb.netlify.app/" >Portfolio</a>
 </p>
     
